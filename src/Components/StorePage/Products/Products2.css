@@ -1,0 +1,28 @@
+.text{
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.divs{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.mt-3{
+    height: auto;
+    width: 300px;
+}
+
+.img{
+    height: 300px;
+}
+
+.shadow{
+    transition: all 0.5s;
+}
+
+.shadow:hover{
+    transform: scale(1.1);
+}

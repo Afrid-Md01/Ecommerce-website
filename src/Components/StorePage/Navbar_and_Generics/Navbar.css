@@ -1,0 +1,36 @@
+.ok
+{
+    padding:15px;
+    color:rgb(163, 163, 163);
+    text-decoration: none;
+}
+
+.ok:hover{
+    color:white;
+}
+
+
+
+.contact{
+    font-size: large;
+    padding-top: 35px;
+    color:rgb(163, 163, 163);
+}
+.contact:hover{
+    color:white;
+}
+
+.profile{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(163, 163, 163);
+    padding: 20px;
+}
+
+.profile:hover{
+    color: white;
+}
+
+.active{
+    color: white;
+}

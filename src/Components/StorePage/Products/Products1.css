@@ -1,0 +1,26 @@
+.text{
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.divs{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img{
+    max-width: 100%
+}
+.shadow{
+    transition: all 0.5s;
+    
+}
+.shadow:hover{
+    transform: scale(1.1);
+}
+
+img{
+    width: 100%;
+}
